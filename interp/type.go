@@ -9,7 +9,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/traefik/yaegi/internal/unsafe2"
+	"github.com/MustangYan/yaegi/internal/unsafe2"
 )
 
 // tcat defines interpreter type categories.

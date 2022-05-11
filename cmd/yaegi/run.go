@@ -9,11 +9,11 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/traefik/yaegi/interp"
-	"github.com/traefik/yaegi/stdlib"
-	"github.com/traefik/yaegi/stdlib/syscall"
-	"github.com/traefik/yaegi/stdlib/unrestricted"
-	"github.com/traefik/yaegi/stdlib/unsafe"
+	"github.com/MustangYan/yaegi/interp"
+	"github.com/MustangYan/yaegi/stdlib"
+	"github.com/MustangYan/yaegi/stdlib/syscall"
+	"github.com/MustangYan/yaegi/stdlib/unrestricted"
+	"github.com/MustangYan/yaegi/stdlib/unsafe"
 )
 
 func run(arg []string) error {

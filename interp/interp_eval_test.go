@@ -18,8 +18,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/traefik/yaegi/interp"
-	"github.com/traefik/yaegi/stdlib"
+	"github.com/MustangYan/yaegi/interp"
+	"github.com/MustangYan/yaegi/stdlib"
 )
 
 func init() { log.SetFlags(log.Lshortfile) }

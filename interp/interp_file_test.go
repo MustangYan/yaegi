@@ -10,9 +10,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/traefik/yaegi/interp"
-	"github.com/traefik/yaegi/stdlib"
-	"github.com/traefik/yaegi/stdlib/unsafe"
+	"github.com/MustangYan/yaegi/interp"
+	"github.com/MustangYan/yaegi/stdlib"
+	"github.com/MustangYan/yaegi/stdlib/unsafe"
 )
 
 func TestFile(t *testing.T) {
